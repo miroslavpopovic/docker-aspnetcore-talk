@@ -117,7 +117,7 @@ TODO: Background image
 
 - Running Linux software on Windows
 - Using tools without installation
-- Integration 
+- Integration testing - https://jeremydmiller.com/2018/08/27/a-way-to-use-docker-for-integration-tests/
 - Continuous integration
 - Continuous delivery
 - AWS or Azure deployment
